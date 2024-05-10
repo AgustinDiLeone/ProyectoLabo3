@@ -1,0 +1,3 @@
+{"codigo":1,"marca":"Samsung","precio":50550},
+{"codigo":3,"marca":"Xiaomi","precio":30000},
+{"codigo":2,"marca":"LG","precio":25400},
